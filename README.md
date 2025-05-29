@@ -3,3 +3,5 @@
    Chụp Ảnh Toàn Màn Hình Trang Web ...
    
 ### [Xem Demo](test)
+
+[![d-b-o-th-i-ti-t-ng-y-mai-T-m-tr-n-Google.png](https://i.postimg.cc/jdnwQKNt/d-b-o-th-i-ti-t-ng-y-mai-T-m-tr-n-Google.png)](https://postimg.cc/6ywptkYm)
