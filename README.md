@@ -1,2 +1,1 @@
-# chupabhmanhinhos
-vx
+### Mẹo Chụp Ảnh Màn Hình IOS 
